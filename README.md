@@ -1,0 +1,1 @@
+This is a practice project to learn Spring Boot 5 and related technologies.
