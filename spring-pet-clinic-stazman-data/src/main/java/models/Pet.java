@@ -1,4 +1,4 @@
-package com.stazman.springpetclinicstazman.models;
+package models;
 
 import java.time.LocalDate;
 
