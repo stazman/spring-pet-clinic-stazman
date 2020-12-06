@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>spring-pet-clinic-stazman</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>spring-pet-clinic-stazman</name>
     <description>Spring Pet Clinic by Stazman</description>
 
@@ -48,7 +48,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/stazman/spring-pet-clinic-stazman.git</developerConnection>
-      <tag>spring-pet-clinic-stazman-0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
